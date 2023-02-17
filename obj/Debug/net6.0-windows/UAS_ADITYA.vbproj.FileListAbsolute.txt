@@ -1,0 +1,17 @@
+F:\UAS_ADITYA\UAS_ADITYA\bin\Debug\net6.0-windows\UAS_ADITYA.exe
+F:\UAS_ADITYA\UAS_ADITYA\bin\Debug\net6.0-windows\UAS_ADITYA.deps.json
+F:\UAS_ADITYA\UAS_ADITYA\bin\Debug\net6.0-windows\UAS_ADITYA.runtimeconfig.json
+F:\UAS_ADITYA\UAS_ADITYA\bin\Debug\net6.0-windows\UAS_ADITYA.dll
+F:\UAS_ADITYA\UAS_ADITYA\bin\Debug\net6.0-windows\UAS_ADITYA.pdb
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.vbproj.AssemblyReference.cache
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.Form1.resources
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.vbproj.GenerateResource.cache
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.GeneratedMSBuildEditorConfig.editorconfig
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.AssemblyInfoInputs.cache
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.AssemblyInfo.vb
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.vbproj.CoreCompileInputs.cache
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.dll
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\refint\UAS_ADITYA.dll
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.pdb
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\UAS_ADITYA.genruntimeconfig.cache
+F:\UAS_ADITYA\UAS_ADITYA\obj\Debug\net6.0-windows\ref\UAS_ADITYA.dll
